@@ -1,0 +1,111 @@
+<head>
+    <center>
+      <h2><u>RESUME</u></h2>
+      </center>
+     <h3>D.yagna sree</h3>
+      <h4>Email-yagnasre569@gmail.com<br>
+     Mobile <no class="7093019950"></no></h4>
+     </head>
+     <style>
+    body {
+  background-color: lightblue;
+}
+
+     </style>
+     <body>
+    <hr>
+    </hr>
+     <center>
+     <h2 style="background-color: rgb(232, 82, 210);"></style>PROFESSIONAL SUMMARY:</h2>
+     </center>
+     <p>Seeking an entry level opportunity with an esteemed organization where i can utilize my skills
+        and enhance learning in the field of work. capable of mastering new technologies.
+     </p> 
+     <center>      
+    <h2 style="background-color: rgb(232, 82, 210);"></style>Educational Qualifications:</h2>
+     </center>
+<style>
+table,tr,td,th{ 
+    border: 2px solid black; 
+    border-collapse: collapse;
+}
+</style>
+<table>
+    <tr>
+    <th>Course</th>
+    <th>College</th>
+    <th>Percentage or GPA</th>
+</tr>
+<tr>
+    <td><B class="BTECH-CSE"></B></td>
+    <td>BHARATH INSITITUE OF ENGINEERING AND technology</td>
+    <td>75%</td>
+</tr>
+<tr>
+    <td>INTERMEDIATE - MPC</td>
+    <td>NARAYANA JUNIOR COLLEGE</td>
+    <td>91%</td>
+</tr>
+<tr>
+    <td>SSC</td>
+    <td>dav model High School</td>
+    <td>9.2GPA</td>
+</tr>
+</table>
+<hr></hr>
+<CENTER>
+<h2 Style="background-color:  rgb(232, 82, 210);"></Style>Technical Skills</h2>
+</CENTER>
+<ol>
+<li>python and java</li>
+<li>machine learning and ai</li>
+<li>cloud computing and deployement</li>
+</ol>
+<hr></hr>
+<center>
+<h2 Style="background-color:  rgb(232, 82, 210);"></Style>projects</h2>
+</center>
+<ol>
+<li>Treasure hunt game in java and python, while interning with unschool</li>
+<li>Emerging defence operations and estimation of combustion, boosting time of a missile
+    from terminal to boosting stages using machine learning model ,while interning with DRDL</li>
+<li>Presenting a cost effective solution for any real life problem through App/Website/Edge
+    device using AWS. while learning with unschool</li>
+</ol>
+<hr></hr>
+<center>
+<h2 style="background-color:  rgb(232, 82, 210);"></style>hobbies</h2>
+</center>
+<p>
+<li>calligraphy.</li>
+<li>reading books</li>
+<li>painting</li>
+</p>
+<hr></hr>
+<center>
+<h2 style="background-color:  rgb(232, 82, 210);"></style>certifications</h2>
+</center>
+<ol>
+  <li>Python and java programming certification provided by unschool.</li>
+   <li>Python programming certification provided by DRDL.</li>
+    <li>AWS cloud practitioner certificate provided by amazon.</li>
+   </ol>
+   <hr></hr>
+   <center>
+<h2 style="background-color: rgb(232, 82, 210);"></style>Languages</h2>
+</center>
+<ol>
+    English-Full Professional Proficiency<br>
+    telugu-Native or Bilingual Proficiency<br>
+    Hindi-Professional Working Proficiency<br>
+</ol>
+<hr></hr>
+<center>
+<h2 style="background-color: rgb(232, 82, 210);"></style>Declaration</h2>
+</center>
+I hereby declare that all the information provided in my resume is true, complete, and accurate to the best of my knowledge and belief..<br>
+
+yagna sree<br>
+<img src="c:\Users\tejov\Downloads\IMG_20221214_222225 (1).jpg"width="100" height="70">
+</body>
+</html>
